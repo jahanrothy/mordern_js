@@ -42,7 +42,9 @@ javaScript.printLibraries();
 
 
 const searchInput = document.querySelector(".search");
+
 const display = document.querySelector(".result");
+
 const thanks = document.querySelector(".thanks");
 
 
